@@ -1,4 +1,4 @@
-# SECR-1013-Digital-Logic
+# SECR1013-Digital-Logic
 
 ## Introduction
 Lecturer : Dr Ahmad Fariz Bin Ali <br>
