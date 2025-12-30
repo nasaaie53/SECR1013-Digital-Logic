@@ -13,3 +13,8 @@ Truth tables are used to analyze logic circuits.
 The subject shows how digital circuits are designed.
 It is important for understanding computer hardware.
 Overall, it forms the foundation of digital and computer systems.
+
+## Refelction
+
+This course taught me a various knowledge of electronic components that required to build a complete computer hardware systems.Each topic we discuss in this course is a guide to the steps to generate a complete circuit that can work. I understand the careful consideration definitely required especially while connecting the logic gates to a electric circuit.All in all
+,this course train myself to think like an engineer by identify the problems and simplify it using mathematicial problems and rebuild the system with the most efficient way.
