@@ -10,13 +10,15 @@ Through this project, I learned how to apply the concepts of digital logic theor
 
 ---
 ### Assignment Question
+[view](https://github.com/nasaaie53/SECR1013-Digital-Logic/blob/main/Digital%20Logic%20-%20Mini%20Project%20-%20UTM-JB%20-%202526-1.pptx.pdf)
 
 
 ---
 ### Assignment Report
-Click 👉[here](https://github.com/nasaaie53/SECR1013-Digital-Logic/blob/main/Report%20Dl2.pdf) to see the report
+Click 👉[here](https://github.com/nasaaie53/SECR1013-Digital-Logic/blob/main/Report%20Dl2.pdf) to see the report.
 
 
 ---
 ### Explanation & Demonstration video 
+Click 👉[here](https://youtu.be/lSweHdECiKc?si=CstExyF8nhtLN562) to watch the video.
 
